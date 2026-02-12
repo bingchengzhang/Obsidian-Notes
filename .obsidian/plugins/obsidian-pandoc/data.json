@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "link",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Program Files\\Pandoc\\pandoc.exe",
+  "pdflatex": null,
+  "outputFolder": "C:\\Users\\lenovo\\Desktop",
+  "extraArguments": "--pdf-engine=xelatex -V mainfont=\"SimSun\"",
+  "exportFrom": "md"
+}

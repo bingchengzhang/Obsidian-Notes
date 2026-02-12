@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "29e312732f7c3a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd10d324e129e396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31d9963e59c8e4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1a9f4318a2d4a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f2d6c4f11ca951c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb776f90f160b4d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "27b880c76e67a9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/Markdown&Obisidian语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown&Obisidian语法"
+            }
+          },
+          {
+            "id": "35f5a8fd605fa412",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3659992cfe9acb30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "9d1c092d2a838857",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72b241d3009c296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c9c379864a9273",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Notes/Markdown&Obisidian语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Markdown&Obisidian语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "e58a8aa096b80ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Notes/Markdown&Obisidian语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Markdown&Obisidian语法 的出链列表"
+            }
+          },
+          {
+            "id": "8859f215ddcaaacf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fadc6a70883b39ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b11003ee9cc86591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Notes/pandoc用法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pandoc用法"
+            }
+          },
+          {
+            "id": "96558f7fe47bf47b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Notes/Markdown&Obisidian语法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Markdown&Obisidian语法 的大纲"
+            }
+          },
+          {
+            "id": "d583088694122049",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "My Notes/计算机系统Ⅰ.md"
+              },
+              "icon": "lucide-info",
+              "title": "计算机系统Ⅰ的笔记属性"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c31d9963e59c8e4c",
+  "lastOpenFiles": [
+    "My Notes/Markdown&Obisidian语法.md",
+    "mit-study/计算机专业课总览.md",
+    "mit-study/其他/CS_Course.md",
+    "mit-study/其他",
+    "mit-study/Templates自动化/TP_CS_Course.md",
+    "mit-study/Templates自动化",
+    "mit-study/My Notes/计算机专业课/计算机系统Ⅰ.md",
+    "mit-study/My Notes/计算机专业课/离散数学.md",
+    "mit-study/My Notes/计算机专业课/数据结构.md",
+    "mit-study/My Notes/计算机专业课/C语言笔记.md",
+    "mit-study/My Notes/Missing semester/Lesson 1.md",
+    "mit-study/My Notes/pandoc用法.md",
+    "mit-study/My Notes/计算机专业课",
+    "mit-study/My Notes/Missing semester",
+    "mit-study/My Notes/微积分甲Ⅱ.md",
+    "mit-study/My Notes/Markdown&Obisidian语法.md",
+    "mit-study/My Notes",
+    "My Notes/计算机专业课/C语言笔记.md",
+    "My Notes/计算机专业课/离散数学.md",
+    "My Notes/微积分甲Ⅱ.md",
+    "未命名.base",
+    "My Notes/pandoc用法.md",
+    "2026-02-12.md",
+    "My Notes/Missing semester/Lesson 1.md",
+    "Templates自动化/TP_CS_Course.md",
+    "My Notes/计算机专业课/数据结构.md",
+    "未命名.md",
+    "计算机专业课总览.md",
+    "My Notes/计算机专业课/计算机系统Ⅰ.md",
+    "计算机系统 Ⅰ.md",
+    "mm.md",
+    "My Notes/计算机专业课",
+    "其他/CS_Course.md",
+    "My Notes/Missing semester",
+    "Templates自动化",
+    "Excalidraw",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+/* 让侧边栏里的 Meta Bind 按钮变窄，适合侧栏宽度 */
+.workspace-leaf-content[data-type="markdown"] .meta-bind-button-wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.workspace-leaf-content[data-type="markdown"] button.meta-bind-button {
+    width: 90%;
+    border-radius: 20px; /* 圆角化 */
+    font-size: 12px;
+}
