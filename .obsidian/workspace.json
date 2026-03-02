@@ -11,14 +11,12 @@
             "id": "c31d9963e59c8e4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "My Notes/Markdown&Obisidian语法.md",
-                "mode": "source",
-                "source": false
+                "file": "My Notes/附件/屏幕截图 2026-03-02 205542 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Markdown&Obisidian语法"
+              "icon": "lucide-image",
+              "title": "屏幕截图 2026-03-02 205542 1"
             }
           }
         ]
@@ -228,9 +226,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31d9963e59c8e4c",
+  "active": "eb776f90f160b4d1",
   "lastOpenFiles": [
+    "My Notes/附件/屏幕截图 2026-03-02 205542 1.png",
+    "My Notes/Git branch.md",
+    "My Notes/附件/屏幕截图 2026-03-02 205542.png",
+    "My Notes/附件",
+    "My Notes/微积分甲Ⅱ.md",
     "My Notes/Markdown&Obisidian语法.md",
+    "My Notes/pandoc用法.md",
+    "My Notes/计算机专业课/计算机系统Ⅰ.md",
+    "My Notes/计算机专业课/未命名.md",
+    "My Notes/千行代码.py",
+    "My Notes/千行代码.md",
+    "My Notes/新建 文本文档.txt",
+    "新建 Python 源文件.py",
     "mit-study/计算机专业课总览.md",
     "mit-study/其他/CS_Course.md",
     "mit-study/其他",
@@ -249,23 +259,12 @@
     "mit-study/My Notes",
     "My Notes/计算机专业课/C语言笔记.md",
     "My Notes/计算机专业课/离散数学.md",
-    "My Notes/微积分甲Ⅱ.md",
     "未命名.base",
-    "My Notes/pandoc用法.md",
     "2026-02-12.md",
     "My Notes/Missing semester/Lesson 1.md",
     "Templates自动化/TP_CS_Course.md",
     "My Notes/计算机专业课/数据结构.md",
     "未命名.md",
-    "计算机专业课总览.md",
-    "My Notes/计算机专业课/计算机系统Ⅰ.md",
-    "计算机系统 Ⅰ.md",
-    "mm.md",
-    "My Notes/计算机专业课",
-    "其他/CS_Course.md",
-    "My Notes/Missing semester",
-    "Templates自动化",
-    "Excalidraw",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
