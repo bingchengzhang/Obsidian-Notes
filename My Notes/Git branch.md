@@ -84,4 +84,4 @@ eg:git rebase 目标节点位置
     
 - **视觉效果：** 在 _Learn Git Branching_ 里，你会看到 `main` 标签在一个圆圈上，而 `bugFix` 标签在它上面的几个圆圈上。它们现在排成了一条直线。
 
-![[屏幕截图 2026-03-02 205542 1.png]]
+![[git rebase xxx.png]]

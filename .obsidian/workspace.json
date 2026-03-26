@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c31d9963e59c8e4c",
+            "id": "1723df0242debbb3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "My Notes/附件/屏幕截图 2026-03-02 205542 1.png"
+                "file": "My Notes/VJF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "屏幕截图 2026-03-02 205542 1"
+              "icon": "lucide-file",
+              "title": "VJF"
             }
           }
         ]
@@ -90,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "9d1c092d2a838857",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Notes/Markdown&Obisidian语法.md",
+                "file": "My Notes/计算机专业课/计算机系统Ⅰ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Markdown&Obisidian语法 的反向链接列表"
+              "title": "计算机系统Ⅰ 的反向链接列表"
             }
           },
           {
@@ -202,9 +204,19 @@
               "icon": "lucide-info",
               "title": "计算机系统Ⅰ的笔记属性"
             }
+          },
+          {
+            "id": "b1aaeff0208e43b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -226,45 +238,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb776f90f160b4d1",
+  "active": "1723df0242debbb3",
   "lastOpenFiles": [
-    "My Notes/附件/屏幕截图 2026-03-02 205542 1.png",
-    "My Notes/Git branch.md",
-    "My Notes/附件/屏幕截图 2026-03-02 205542.png",
-    "My Notes/附件",
+    "My Notes/计算机专业课/sys/计算机系统Ⅰ.md",
+    "My Notes/计算机专业课/sys/附件/Pasted image 20260326145253.png",
+    "My Notes/计算机专业课/sys/附件/Pasted image 20260326145104.png",
+    "My Notes/计算机专业课/sys/附件/Pasted image 20260326144647.png",
+    "My Notes/计算机专业课/sys/附件/Pasted image 20260326144624.png",
+    "My Notes/计算机专业课/sys/附件/屏幕截图 2026-03-26 144349.png",
+    "My Notes/计算机专业课/sys/附件/逻辑操作符.png",
     "My Notes/微积分甲Ⅱ.md",
-    "My Notes/Markdown&Obisidian语法.md",
-    "My Notes/pandoc用法.md",
-    "My Notes/计算机专业课/计算机系统Ⅰ.md",
-    "My Notes/计算机专业课/未命名.md",
-    "My Notes/千行代码.py",
-    "My Notes/千行代码.md",
-    "My Notes/新建 文本文档.txt",
-    "新建 Python 源文件.py",
-    "mit-study/计算机专业课总览.md",
-    "mit-study/其他/CS_Course.md",
-    "mit-study/其他",
-    "mit-study/Templates自动化/TP_CS_Course.md",
-    "mit-study/Templates自动化",
-    "mit-study/My Notes/计算机专业课/计算机系统Ⅰ.md",
-    "mit-study/My Notes/计算机专业课/离散数学.md",
-    "mit-study/My Notes/计算机专业课/数据结构.md",
-    "mit-study/My Notes/计算机专业课/C语言笔记.md",
-    "mit-study/My Notes/Missing semester/Lesson 1.md",
-    "mit-study/My Notes/pandoc用法.md",
-    "mit-study/My Notes/计算机专业课",
-    "mit-study/My Notes/Missing semester",
-    "mit-study/My Notes/微积分甲Ⅱ.md",
-    "mit-study/My Notes/Markdown&Obisidian语法.md",
-    "mit-study/My Notes",
-    "My Notes/计算机专业课/C语言笔记.md",
-    "My Notes/计算机专业课/离散数学.md",
-    "未命名.base",
-    "2026-02-12.md",
-    "My Notes/Missing semester/Lesson 1.md",
+    "My Notes/Command Line.md",
+    "My Notes/计算机专业课/FDS/数据结构.md",
+    "My Notes/计算机专业课/sys/Sys lab0-1草稿.md",
+    "My Notes/计算机专业课/FDS/附件/入栈出栈caclulate.png",
+    "My Notes/计算机专业课/FDS/附件",
+    "My Notes/计算机专业课/sys/附件/TAdd规则.png",
+    "My Notes/计算机专业课/sys/附件/实现向上取整.png",
+    "My Notes/计算机专业课/sys/附件/signed shift.png",
+    "My Notes/计算机专业课/Program process.md",
+    "My Notes/Prompt.md",
+    "My Notes/VJF.md",
+    "My Notes/CLI.md",
+    "My Notes/TUI.md",
+    "My Notes/PowerShell.md",
+    "My Notes/CMD.md",
+    "My Notes/待办事项.md",
+    "My Notes/计算机专业课/sys/附件",
+    "My Notes/计算机专业课/sys/除二取余法.md",
+    "My Notes/计算机专业课/sys/乘二取余法.md",
     "Templates自动化/TP_CS_Course.md",
-    "My Notes/计算机专业课/数据结构.md",
-    "未命名.md",
+    "My Notes/pandoc用法.md",
+    "其他/CS_Course.md",
+    "My Notes/计算机专业课/FDS/算法思维.md",
+    "My Notes/计算机专业课/FDS/Coding",
+    "My Notes/计算机专业课/FDS/Coding/Ballon Popping.md",
+    "My Notes/Git branch.md",
+    "计算机专业课总览.md",
+    "Sys lab0-1.md",
+    "My Notes/计算机专业课/FDS",
+    "My Notes/计算机专业课/sys/未命名",
+    "My Notes/计算机专业课/sys",
+    "My Notes/Markdown&Obisidian语法.md",
+    "My Notes/计算机专业课/FDS/Time Complexity.md",
+    "附件",
+    "My Notes/计算机专业课/附件",
+    "Excalidraw",
+    "My Notes/附件",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

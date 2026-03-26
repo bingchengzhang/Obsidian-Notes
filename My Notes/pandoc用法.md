@@ -8,12 +8,12 @@ Pandoc 是计算机领域最强大的文档转换工具，它可以将 Markdown 
 
 基本逻辑：`pandoc [源文件] -o [输出文件]`
 
-|**目标格式**|**命令**|**备注**|
-|---|---|---|
-|**Word**|`pandoc input.md -o output.docx`|**无需**额外引擎，直接生成|
-|**PDF**|`pandoc input.md -o output.pdf --pdf-engine=xelatex`|**需要**安装 LaTeX (如 TexLive)|
-|**HTML**|`pandoc input.md -o output.html`|适合发布到网页|
-|**PPT**|`pandoc input.md -o output.pptx`|自动根据标题分幻灯片|
+| **目标格式** | **命令**                                               | **备注**                     |
+| -------- | ---------------------------------------------------- | -------------------------- |
+| **Word** | `pandoc input.md -o output.docx`                     | **无需**额外引擎，直接生成            |
+| **PDF**  | `pandoc input.md -o output.pdf --pdf-engine=xelatex` | **需要**安装 LaTeX (如 TexLive) |
+| **HTML** | `pandoc input.md -o output.html`                     | 适合发布到网页                    |
+| **PPT**  | `pandoc input.md -o output.pptx`                     | 自动根据标题分幻灯片                 |
 
 ## 2. 进阶神技：样式模板 (`--reference-doc`)
 
