@@ -21,6 +21,11 @@ killall -9 gtkwave
 find . -name "*.bit"
 program device
 \\wsl.localhost\Ubuntu\home\bccc\Workspace
+cd "/mnt/d/Obsidian Notes/Obsidian-Notes"
+claude
+
+! cd /home/bccc/todolist/backend && .venv/bin/python app.py &
+! ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -R 80:localhost:5000 nokey@localhost.run &
 ```
 # 一.打开文件
 ## 1. 快速查看内容 
