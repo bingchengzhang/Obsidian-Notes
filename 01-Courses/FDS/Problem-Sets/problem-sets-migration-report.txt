@@ -1,0 +1,92 @@
+Problem-Sets migration report
+
+Files now under Problem-Sets:
+BST-CBT/BST+CBT中值必在left subtree.md
+BST-CBT/BST_Stack_Notes.md
+BST-CBT/BST_summary.md
+BST-CBT/insert&delete_模拟中序&qsort.md
+BST-CBT/二分查找的decision树.md
+BST-CBT/模拟中序填数组-理解CBT+qsort函数用法.md
+BST-CBT/模拟中序填数组-理解CBT.c
+BST-CBT/理解二分搜索&BST.md
+C-Snippets/双指针比对.md
+C-Snippets/用malloc定义来延长作用域及处理巨量数据(悬空指针).md
+C-Snippets/结构体定义规则.md
+C-Snippets/解决数组过长导致栈溢出.md
+C-Snippets/调用函数传指针之好处.md
+Graph/DFS归纳.md
+Graph/DFS递归.md
+Heap/d叉堆子节点父节点位置计算.md
+Heap/max堆中最小值只能在叶以及叶位置和N的关系.md
+Heap/上浮&下沉.c
+Heap/上滤下沉.md
+Heap/建堆.md
+Linked-List/dummy.md
+Linked-List/反转链表：输入输出均假头.md
+Linked-List/链表反转.md
+Problem-Sets-MOC.md
+Segment-Tree/segment_tree.md
+Stack-Queue/push_pop数学原理+方法数.md
+Stack-Queue/入栈出栈实现.md
+Stack-Queue/双栈实现+_malloc分配堆+流式输出.c
+Stack-Queue/双栈实现_全局变量+读完再输出.c
+Stack-Queue/双栈实现队列.md
+Stack-Queue/双栈法实现z字遍历.md
+Tree/inorder_stack.c
+Tree/pop_push模型-前序+中序建树_后序输出.c
+Tree/zigzagging——正反输出queue&后序中序递归建树.c
+Tree/中序非迭代(stack).md
+Tree/普通树转化二叉树遍历方式的变化.md
+Tree/递归解决isomorphic.md
+Union-Find/union_find_notes.md
+Union-Find/union_find_press load.c
+Unsorted/Balloon-Popping.md
+Unsorted/union_find_press load.c.bak
+attachments/1f6fb93a-a4ee-4e48-bc0f-b169fe89f890.jpg
+attachments/BST+CBT性质.png
+attachments/Buildheap-所需比较次数.png
+attachments/Dijkstra算法.png
+attachments/Isomorphic.png
+attachments/count最短路径数初始化.png
+attachments/d叉堆.png
+attachments/d叉堆计算.png
+attachments/gcd满足结合律.png
+attachments/inorder.png
+attachments/inorder建树不唯一.png
+attachments/merge-list.png
+attachments/merge.png
+attachments/queue-using-two-stacks.png
+attachments/reverse-list.png
+attachments/the-decision-tree-for-binary-search.png
+attachments/zigzagging.png
+attachments/入栈出栈组合数.png
+attachments/删除_inorder_前驱_后继.png
+attachments/前后反转.png
+attachments/大顶堆的min位置.png
+attachments/并查集by-size深度级别.png
+attachments/有关tree-node计算.png
+attachments/栈相关.png
+attachments/每次更新.png
+attachments/理解BST_inorder顺序排列.png
+attachments/路径边数&惩罚关系.png
+attachments/路径边数&惩罚关系题目.png
+problem-sets-migration-issues.md
+
+Renamed files:
+Ballon Popping.md -> Balloon-Popping.md
+Dijikstra算法.png -> Dijkstra算法.png
+二分查找的dicision树.md -> 二分查找的decision树.md
+Buildheap 所需比较次数.png -> Buildheap-所需比较次数.png
+merge list.png -> merge-list.png
+queue using two stacks.png -> queue-using-two-stacks.png
+reverse list.png -> reverse-list.png
+the decision tree for binary search.png -> the-decision-tree-for-binary-search.png
+并查集by size深度级别.png -> 并查集by-size深度级别.png
+有关tree node计算.png -> 有关tree-node计算.png
+
+Link fixes:
+No local same-directory image links required rewriting. Remote images in Unsorted/Balloon-Popping.md were left unchanged and recorded in problem-sets-migration-issues.md.
+
+Unsorted files:
+Balloon-Popping.md
+union_find_press load.c.bak
