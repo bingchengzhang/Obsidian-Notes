@@ -11,10 +11,14 @@
             "id": "513c2495189f4a96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Courses/Sys-I/sys-i-migration-issues.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "sys-i-migration-issues"
             }
           }
         ]
@@ -223,15 +227,27 @@
   },
   "active": "513c2495189f4a96",
   "lastOpenFiles": [
+    "01-Courses/Sys-I/计算机系统Ⅰ.md",
+    "01-Courses/Sys-I/sys-i-migration-issues.md",
+    "01-Courses/Sys-I/数字表示/除二取余法.md",
+    "01-Courses/Sys-I/数字表示/乘二取余法.md",
+    "01-Courses/Sys-I/attachments/Multiplication range.png",
+    "01-Courses/Sys-I/attachments/EDA_flow.png",
+    "01-Courses/Sys-I/attachments/实现向上取整.png",
+    "01-Courses/Sys-I/attachments/逻辑操作符.png",
+    "01-Courses/Sys-I/attachments/屏幕截图 2026-03-26 144349.png",
+    "01-Courses/Sys-I/attachments/unsigned移位.png",
+    "01-Courses/Sys-I/attachments/unsigned additon.png",
+    "01-Courses/Sys-I/attachments/unsigned additon 3.png",
+    "01-Courses/Sys-I/attachments/unsigned additon 2.png",
+    "01-Courses/Sys-I/attachments/unsigned additon 1.png",
+    "01-Courses/Sys-I/attachments",
+    "01-Courses/Sys-I/Sys-Lab0-1草稿.md",
+    "01-Courses/Sys-I/数字表示",
     "01-Courses/Sys-I/Lab3/01-FSM.md",
     "01-Courses/Sys-I/Lab3/Lab3-MOC.md",
     "01-Courses/Sys-I/Lab3/05-DPI差分测试.md",
     "My Notes/Markdown&Obisidian语法.md",
-    "01-Courses/Sys-I/Lab3/attachments/FSM.png",
-    "01-Courses/Sys-I/Lab3/attachments/DPI-C差分.png",
-    "01-Courses/Sys-I/Lab3/attachments/模块化.png",
-    "01-Courses/Sys-I/Lab3/attachments/除法器.png",
-    "01-Courses/Sys-I/Lab3/attachments/时序.png",
     "01-Courses/Sys-I/Lab3/attachments",
     "01-Courses/Sys-I/Lab3/02-模块化与接口.md",
     "01-Courses/Sys-I/Lab3/04-除法器设计.md",
@@ -242,15 +258,10 @@
     "未命名.canvas",
     "2026-05-05.md",
     "My Notes/计算机专业课/sys/Lab3/lab3-3-除法器设计.md",
-    "My Notes/计算机专业课/sys/Lab3/附件/除法器.png",
     "My Notes/计算机专业课/sys/Lab3/lab3-2-模块化接口哲学.md",
-    "My Notes/计算机专业课/sys/Lab3/附件/模块化.png",
     "My Notes/计算机专业课/sys/Lab3/lab3-1FSM.md",
     "My Notes/计算机专业课/sys/Lab3/lab3-DPI差分测试.md",
     "My Notes/计算机专业课/sys/Lab3/lab3-3-时序与握手.md",
-    "My Notes/计算机专业课/sys/Lab3/附件/DPI-C差分.png",
-    "My Notes/计算机专业课/sys/Lab3/附件/时序.png",
-    "My Notes/计算机专业课/sys/Lab3/附件/FSM.png",
     "My Notes/计算机专业课/sys/Lab3/附件",
     "My Notes/计算机专业课/sys/计算机系统Ⅰ.md",
     "My Notes/计算机专业课/sys/Lab3",
@@ -261,14 +272,8 @@
     "My Notes/微积分甲Ⅱ.md",
     "My Notes/累次极限与二重极限几何、结构与关系.md",
     "My Notes/未命名.md",
-    "My Notes/Claude Prompt.md",
-    "My Notes/Thinking about AI Using.md",
-    "My Notes/Prompt.md",
-    "My Notes/计算机专业课/FDS/Learn by project.md",
     "My Notes/计算机专业课/FDS/Learn by project.md.tmp.800.1775708224858",
     "My Notes/计算机专业课/FDS/Learn by project.md.tmp.800.1775707985352",
-    "My Notes/计算机专业课/FDS/Learn by project.md.tmp.800.1775707822699",
-    "My Notes/deepseek",
     "未命名 1.canvas"
   ]
 }
