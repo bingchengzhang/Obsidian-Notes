@@ -11,12 +11,14 @@
             "id": "513c2495189f4a96",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "My Notes/计算机专业课/附件/大纲Ⅱ.jpg"
+                "file": "My Notes/计算机专业课/Program process.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "大纲Ⅱ"
+              "icon": "lucide-file",
+              "title": "Program process"
             }
           }
         ]
@@ -225,8 +227,12 @@
   },
   "active": "513c2495189f4a96",
   "lastOpenFiles": [
-    "My Notes/计算机专业课/附件/大纲Ⅰ.jpg",
+    "My Notes/计算机专业课/附件/unnamed.jpg",
     "My Notes/计算机专业课/Program process.md",
+    "01-Courses/Sys-I/计算机系统Ⅰ.md",
+    "My Notes/计算机专业课/sys/Lab3/lab3-1FSM.md",
+    "My Notes/计算机专业课/附件/大纲Ⅱ.jpg",
+    "My Notes/计算机专业课/附件/大纲Ⅰ.jpg",
     "01-Courses/Sys-I/Lab3/Lab3-MOC.md",
     "01-Courses/Sys-I/Sys-I-MOC.md",
     "01-Courses/FDS/Problem-Sets/C-Snippets/调用函数传指针之好处.md",
@@ -250,13 +256,10 @@
     "union_find_press load.md",
     "01-Courses/FDS/Problem-Sets/Union-Find/union_find_notes.md",
     "01-Courses/FDS/Problem-Sets/Problem-Sets-MOC.md",
-    "01-Courses/FDS/Learn-by-project.md",
-    "01-Courses/FDS/Coding/Balloon-Popping.md",
     "01-Courses/FDS/Problem-Sets/Stack-Queue/双栈实现+_malloc分配堆+流式输出.c",
     "My Notes/计算机专业课/附件/g++编译器.png",
     "My Notes/计算机专业课/附件/Compiler.png",
     "My Notes/计算机专业课/附件/Carry Counting system.png",
-    "My Notes/计算机专业课/附件/大纲Ⅱ.jpg",
     "01-Courses/FDS/Problem-Sets/problem-sets-migration-report.txt",
     "01-Courses/FDS/Problem-Sets/attachments/路径边数&惩罚关系题目.png",
     "01-Courses/FDS/Problem-Sets/attachments/路径边数&惩罚关系.png",
