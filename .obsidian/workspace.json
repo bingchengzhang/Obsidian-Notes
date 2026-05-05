@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e67e82b7495ea6c",
+        "id": "38a1d23e61675582",
         "type": "tabs",
         "children": [
           {
-            "id": "59bd335d105250f2",
+            "id": "513c2495189f4a96",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59bd335d105250f2",
+  "active": "513c2495189f4a96",
   "lastOpenFiles": [
     "01-Courses/Sys-I/Lab3/01-FSM.md",
     "01-Courses/Sys-I/Lab3/Lab3-MOC.md",
